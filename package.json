@@ -1,7 +1,7 @@
 {
-  "main": "buffer.js",
+  "main": "global.js",
   "name": "jspm-nodelibs-buffer",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "dependencies": {
     "buffer": "^5.1.0"
   }

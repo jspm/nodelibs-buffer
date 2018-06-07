@@ -1,1 +1,1 @@
-module.exports = require('./buffer.js').Buffer;
+module.exports = require('buffer').Buffer;
