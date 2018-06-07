@@ -1,15 +1,8 @@
 {
   "main": "buffer.js",
   "name": "jspm-nodelibs-buffer",
-  "version": "0.2.3",
-  "map": {
-    "./buffer.js": {
-      "node": "@node/buffer",
-      "browser": "buffer"
-    }
-  },
+  "version": "0.3.0",
   "dependencies": {
-    "buffer": "^5.0.6"
-  },
-  "jspmNodeConversion": false
+    "buffer": "^5.1.0"
+  }
 }
